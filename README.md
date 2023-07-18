@@ -1,6 +1,6 @@
 # Arduino Project: Remote Controlled Digital LED Clock
 
-This is an Arduino project that demonstrates LED clock that can be controlled by a remote. The project uses the Arduino programming language and can be customised for similar projects
+This is an Arduino project that demonstrates LED clock display. The project uses the Arduino programming language and can be customised for similar projects
 
 ## Table of Contents
 - [Features](#features)
@@ -56,10 +56,9 @@ Setup the the hardware as shown below:
 6. Save the sketch with a meaningful name.
 
 ## Usage
-1. Upload the **slave.ino** sketch to the Arduino board **labled Duino 1** by clicking the **Upload** button in the Arduino IDE.
+1. Upload the **clock_firmware.ino** sketch to the Arduino board by clicking the **Upload** button in the Arduino IDE.
 2. The LED connected to the Arduino board should start blinking at a fixed interval.
 3. Experiment with the code to and customize to suit your needs.
-4. Repeat steps 1, 2, 3 using the sketch named **master.ino** for the Arduino board labled  **Duino 2**.
 
 ## Contributing
 Contributions to this project are welcome. If you would like to contribute, please follow these steps:
@@ -67,8 +66,6 @@ Contributions to this project are welcome. If you would like to contribute, plea
 2. Create a new branch for your feature or bug fix.
 3. Make your changes and test them thoroughly.
 4. Submit a pull request with a clear description of your changes.
-
-If you're looking to integrate with an android sms based project, make sure to check out the the repository corresponding to the [android project](https://github.com/cgardesey/SmartSecurity) for detailed instructions.
 
 ## License
 This project is licensed under the [MIT License](LICENSE). Feel free to modify and distribute this project as needed.
