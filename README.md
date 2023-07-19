@@ -15,7 +15,7 @@ This is an Arduino project that demonstrates LED clock display. The project uses
 ## Features
 
 -  **Display mode**: Available display modes are: time, date, stopwatch and countdown
--  **Remote controll**: Set time, date, countdown and stopwatch with remote control.
+-  **Remote control**: Set time, date, countdown and stopwatch with remote control.
 -  **Automatic mode**: Auto adjust display brightness in **automatic mode**
 -  **Manual mode**: Manually adjust display brightness with remote control in **manual mode**
 -  **Time format**: Choose between **12-hour** and **24-hour** time display modes
