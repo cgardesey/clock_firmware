@@ -16,32 +16,30 @@ This is an Arduino project that demonstrates LED clock display. The project uses
 
 -  **Display mode**: Available display modes are: time, date, stopwatch and countdown
 -  **Remote control**: Set time, date, countdown and stopwatch with remote control.
--  **Automatic mode**: Auto adjust display brightness in **automatic mode**
+-  **Automatic mode**: Display brightness auto adjusts in **automatic mode**
 -  **Manual mode**: Manually adjust display brightness with remote control in **manual mode**
--  **Time format**: Choose between **12-hour** and **24-hour** time display modes
--  **Animations**: See animations diskplayed at periodically
+-  **Time format**: Choose between **12-hour** and **24-hour** time display formats
+-  **Animations**: See animations diskplayed periodically
 -  **Alarm**: Hear hourly beeping sound
 
 ## Requirements
 To run this project, you will need the following components:
-- Two Arduino board (e.g., Arduino Uno or Arduino Nano)
+- Two  Arduino nano boards (e.g., Arduino Uno or Arduino Nano)
   The two boards will communicate serially. One board will serve as the master and the other will serve as the slave
-- RTC
-- 20x4 LED
-- 4x4 Keypad
-- Sim800 or sim900
-- PIR's
-- 120db buzzers
-- Switch (Toggle, push button or slide switch)
-- Terminal blocks (optional)
-- 12V 5A power adapter (with stable output)
-- Flexible wire calbe
-- Packaging (Junction box, 3D moulded plastic box, wooden box etc)
-- Resistors
-- Transistors
-- Capacitors
-- Jumper wires
-- Breadboard (optional, for prototyping)
+- DS1307 RTC
+- ULN2803
+- UDN2981
+- Tsop1838
+- 56R resistor
+- 4K7 resistor
+- 10K resitor
+- 5v active buzzer
+- PCB
+- Male pin headers
+- Female pin headers
+- Clock crystal
+- Cr2032 holder
+- Cr2032 coin cell
 
 ## Hardware Setup
 Setup the the hardware as shown below:
