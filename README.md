@@ -44,7 +44,8 @@ To run this project, you will need the following components:
 ## Hardware Setup
 Setup the the hardware as shown below:
 
-![image](https://github.com/cgardesey/smart_security_firmware/assets/10109354/3b127681-51dc-4175-b936-d415535cf182)
+![image](https://github.com/cgardesey/clock_firmware/assets/10109354/4f2db60a-e1a9-4372-a7e8-9ae1d2295ec9)
+
 
 
 ## Software Setup
