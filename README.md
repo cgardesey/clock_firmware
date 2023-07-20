@@ -40,6 +40,8 @@ To run this project, you will need the following components:
 - Clock crystal
 - Cr2032 holder
 - Cr2032 coin cell
+- Jumper wires
+- Breadboard (optional, for prototyping)
 
 ## Hardware Setup
 Setup the the hardware as shown below:
