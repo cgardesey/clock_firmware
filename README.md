@@ -30,9 +30,7 @@ To run this project, you will need the following components:
 - ULN2803
 - UDN2981
 - Tsop1838
-- 56R resistor
-- 4K7 resistor
-- 10K resitor
+- Resistor (56R, 4K7, 10K)
 - 5v active buzzer
 - PCB
 - Male pin headers
