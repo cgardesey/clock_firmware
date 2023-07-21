@@ -1,6 +1,6 @@
 # Arduino Project: Remote Controlled Digital LED Clock
 
-This is an Arduino project that demonstrates LED clock display. The project uses the Arduino programming language and can be customised for similar projects
+This is an Arduino project that demonstrates LED clock display. The project uses the Arduino programming language and can be customised for similar projects.
 
 ## Table of Contents
 - [Features](#features)
