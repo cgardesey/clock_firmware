@@ -53,7 +53,7 @@ Setup the the hardware as shown below:
 2. Connect your Arduino board to your computer using a USB cable.
 3. Open the Arduino IDE and select the appropriate board and port from the **Tools** menu.
 4. Create a new sketch in the Arduino IDE.
-5. Copy and paste the code from the `Smart_Security.ino` file into your sketch.
+5. Copy and paste the code from the `clock_firmware.ino` file into your sketch.
 6. Save the sketch with a meaningful name.
 
 ## Usage
